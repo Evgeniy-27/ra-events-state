@@ -86,7 +86,7 @@
   img: "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/filter/img/place200x290_3.png",
   category: "Flayers"
 }]
-
+```
 ###
 Расположение товаров
 ===
