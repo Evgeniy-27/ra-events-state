@@ -6,7 +6,7 @@ function Toolbar(props) {
   return (
     <div className="t1-toolbar">
       {filters.map((filter) =>
-        <button key={filter} className={filter === selected ? "t1-button t1-selected" : "t1-button"} onClick={onSelectFilter}>
+        <button key={filter} className={filter === selected ? "t1-button t1-selected" : "t1-button"} onClick={() => onSelectFilter(filter)}>
           {filter}
         </button>
       )}
