@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2cf4g20e0bqdj34s?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ra-events-state)
+
+
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
 
 ![portfolio-all](./assets/portfolio-all.png)
